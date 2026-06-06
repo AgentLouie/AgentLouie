@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Melbhen%20Louie%20G.%20Nery&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Graduate&descSize=18&descAlignY=58&descColor=90caf9" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20Louie%20Nery&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Graduate&descSize=18&descAlignY=58&descColor=90caf9](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,100:161b22&text=Louie%20G.%20Nery&fontSize=50&fontColor=e6edf3&fontAlignY=50&animation=fadeIn)" width="100%"/>
 
 <br/>
 
@@ -44,6 +44,7 @@ developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Databases**
 
@@ -61,36 +62,6 @@ developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏘️ San Felipe Profiling System
-> **Dec 2025 – Feb 2026** | Full-Stack Web Application
-
-A resident management platform for the community of San Felipe, Zambales — enabling local officials to efficiently record, update, and track community member information through a clean digital interface.
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React JS, Tailwind CSS |
-| Backend | Python, FastAPI (REST APIs) |
-| Database | PostgreSQL |
-| Deployment | AWS |
-| Version Control | Git |
-
----
-
-### ⛽ Fuel Track PH
-> **Mar 2026 – Apr 2026** | Personal Project
-
-A real-time fuel price tracking platform tailored for Zambales residents — helping users monitor and compare prices across local gas stations to make smarter refueling decisions.
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React, TypeScript, NativeWind |
-| Backend | FastAPI |
-| Database | PostgreSQL |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,22 +76,6 @@ A real-time fuel price tracking platform tailored for Zambales residents — hel
 ![GitHub Streak](https://streak-stats.demolab.com?user=AgentLouie&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎓 Education
-
-**🏫 President Ramon Magsaysay State University** *(Sep 2022 – Jul 2026)*
-Bachelor of Science in Information Technology
-
-**💼 OJT — Office of the Program Chair, PRMSU Iba**
-Systems & Administrative Support Intern
-- Managed student record operations through the SIAS platform
-- Digitized paper-based records using Google Workspace and Excel
-- Built automated reporting templates (VLOOKUP, Pivot Tables)
-- Provided IT support and maintained data accuracy through validation and cleaning
-
----
 
 ## 📫 Connect With Me
 
