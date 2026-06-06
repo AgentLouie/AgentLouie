@@ -69,7 +69,7 @@ developer = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AgentLouie&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AgentLouie&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
