@@ -15,17 +15,10 @@
 ```python
 developer = {
     "name"       : "Melbhen Louie G. Nery",
-    "location"   : "San Felipe, Zambales, Philippines",
-    "education"  : "BS Information Technology — PRMSU",
-    "focus"      : ["Full-Stack Development", "Backend APIs", "Database Design"],
+    "focus"      : ["Full-Stack Development"],
     "currently"  : "Building real-world projects & seeking opportunities",
     "email"      : "louienery20@gmail.com",
 }
-```
-
-> Dedicated IT graduate passionate about building scalable web applications. Hardworking, organized, and committed to delivering quality work with integrity and responsibility. Eager to grow in a progressive organization.
-
----
 
 ## 🛠️ Tech Stack
 
