@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=90CAF9&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Python+%26+FastAPI+Backend+Developer;React+%26+TypeScript+Frontend+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg).
 
 </div>
 
